@@ -1,4 +1,5 @@
 title: Jun Blog
+subTitle:개발 블로그 since 2020.12
 iconURL: assets/default-icon.png
 theme: minima
 
@@ -7,8 +8,7 @@ permalink: :slug
 
 url: "https://junblog.github.io"
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  github: junblog
 
 plugins:
  - jekyll-feed
