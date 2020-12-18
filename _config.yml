@@ -5,6 +5,7 @@ theme: minima
 # for a clean URL
 permalink: :slug
 
+url: "https://junblog.github.io"
 social:
   twitter: _SupunKavinda
   github: SupunKavinda
